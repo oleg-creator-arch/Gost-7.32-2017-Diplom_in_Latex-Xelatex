@@ -6,14 +6,13 @@
 \contentsline {section}{ВВЕДЕНИЕ}{7}{section*.1}%
 \contentsline {section}{\numberline {1}Описание и анализ предметной области}{9}{section.1}%
 \contentsline {subsection}{\numberline {1.1}пример второго уровня заголовка}{9}{subsection.1.1}%
-\contentsline {section}{\numberline {2}Социальная значимость разработки}{12}{section.2}%
-\contentsline {section}{\numberline {3}Технико-экономическое обоснование разработки}{13}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Описание целесообразности проектирования с точки зрения \\объекта}{13}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Расчет затрат на разработку}{13}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Безопасность и экологичность разработки}{17}{section.4}%
-\contentsline {paragraph}{\Large \centerline {{ЗАКЛЮЧЕНИЕ}}\vspace {1em}}{23}{section*.16}%
-\contentsline {section}{ЗАКЛЮЧЕНИЕ}{23}{section*.16}%
-\contentsline {paragraph}{\Large \centerline {{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}}\vspace {1em}}{24}{section*.17}%
-\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{24}{section*.17}%
-\contentsline {paragraph}{\Large \centerline {{ПРИЛОЖЕНИЕ А}}}{25}{section*.18}%
-\contentsline {section}{{ПРИЛОЖЕНИЕ А}}{25}{section*.18}%
+\contentsline {section}{\numberline {2}Математическая модель}{12}{section.2}%
+\contentsline {section}{\numberline {3}Социальная значимость разработки}{13}{section.3}%
+\contentsline {section}{\numberline {4}Технико-экономическое обоснование разработки}{14}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Описание целесообразности проектирования с точки зрения \\объекта}{14}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Расчет затрат на разработку}{14}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Безопасность и экологичность разработки}{18}{section.5}%
+\contentsline {paragraph}{\Large \centerline {{ЗАКЛЮЧЕНИЕ}}\vspace {1em}}{24}{section*.16}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{24}{section*.16}%
+\contentsline {paragraph}{\Large \centerline {{ПРИЛОЖЕНИЕ А}}}{25}{section*.17}%
+\contentsline {section}{{ПРИЛОЖЕНИЕ А}}{25}{section*.17}%
