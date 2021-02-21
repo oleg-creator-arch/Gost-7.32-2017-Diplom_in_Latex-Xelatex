@@ -1,8 +1,8 @@
-%namespace SampleNamespace
-%{
-%  enum SampleEnum
-%  {
-%    FirstValue,
-%    SecondValue
-%  }
-% }
+namespace SampleNamespace
+{
+  enum SampleEnum
+  {
+    FirstValue,
+    SecondValue
+  }
+}
