@@ -1,0 +1,62 @@
+@BOOK{Legendre.Num.Ecology.1998,
+  author = {Legendre, P. and Legendre, L},
+  title = {Numerical Ecology},
+  publisher = {Elsevier Science B.V.},
+  year = {1998},
+  pages = {853},
+  hyphenation = {english},
+}
+
+@misc{knuthwebsite,
+  author = "Donald Knuth",
+  title = "Knuth: Computers and Typesetting",
+  url = "http://www-cs-faculty.stanford.edu/\~{}uno/abcde.html",
+  hyphenation = {english},
+}
+
+
+%\usepackage[
+% backend=biber,
+% bibencoding=utf8,
+% sorting=none,
+% maxcitenames=2,
+% %style=authoryear,
+% bibstyle=gost-numeric,
+% %citestyle=gost-authoryear
+% ]{biblatex}
+\begin{comment}
+\usepackage[% 
+backend=biber, %подключение пакета biber (тоже нужен)
+bibstyle=gost-numeric, %подключение одного из четырех главных стилей biblatex-gost 
+citestyle=numeric-comp, %подключение стиля стиля (а вот!) 
+language=auto, %указание сортировки языков
+babel=other, %указание языков
+sorting=ntvy, %тип сортировки в библиографии
+doi=false, 
+eprint=false, 
+isbn=false, 
+dashed=false, 
+url=false %все false выключают отображение полей, заполненных в библиографической базе, но не актуальных для печатного листа
+]{biblatex}
+\DeclareFieldFormat{postnote}{#1} %убирает с. и p. 
+\renewcommand*{\multicitedelim}{\addsemicolon\space} % добавляет точку с запятой и пробел (; ) в перечислении
+\renewcommand*{\postnotedelim}{\addcolon\space} % добавляет двоеточие и пробел (: ) перед номером страницы
+\DeclareSourcemap{
+  \maps[datatype=bibtex]{
+    \map{
+      \step[fieldsource=langid, match=russian, final]
+      \step[fieldset=presort, fieldvalue={a}]
+    }
+    \map{
+      \step[fieldsource=langid, notmatch=russian, final]
+      \step[fieldset=presort, fieldvalue={z}]
+    }
+  }
+}
+\usepackage{polyglossia}
+\setdefaultlanguage{russian} %язык по умолчанию
+\setotherlanguage{english}
+%
+%\usepackage[style=gost-numeric,sorting=none]{biblatex}
+%\addbibresource{bib.bib}
+ \end{comment}
