@@ -54,8 +54,14 @@
       <file>blx-unicode.def</file>
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
+      <file>biblatex-gost.def</file>
+      <file>gost-standard.bbx</file>
+      <file>gost-numeric.bbx</file>
+      <file>numeric-comp.cbx</file>
+      <file>gost-numeric.cbx</file>
       <file>biblatex.cfg</file>
       <file>russian.lbx</file>
+      <file>russian-gost.lbx</file>
     </requires>
   </internal>
   <external package="biblatex" priority="5" active="1">
@@ -77,7 +83,7 @@
       <file>main.bcf</file>
     </requires>
     <requires type="editable">
-      <file>simple_utf8.bib</file>
+      <file>library.bib</file>
     </requires>
   </external>
 </requests>
