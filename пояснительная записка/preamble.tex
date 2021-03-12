@@ -312,6 +312,23 @@ isbn=false,
 dashed=false, 
 url=false %все false выключают отображение полей, заполненных в библиографической базе, но не актуальных для печатного листа
 ]{biblatex}
-\end{comment}
+
 \usepackage[style=gost,sorting=none]{biblatex}
 \addbibresource {simple_utf8.bib}
+\end{comment}
+
+
+\bibliographystyle{gost-numeric.bbx}
+\usepackage[parentracker=true,
+backend=biber,
+hyperref=false,
+bibencoding=utf8,
+style=numeric-comp,
+language=auto,
+autolang=other,
+citestyle=gost-numeric,
+defernumbers=true,
+bibstyle=gost-numeric,
+sorting=ntvy,
+]{biblatex}
+\addbibresource{library.bib}
