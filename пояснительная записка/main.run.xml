@@ -60,6 +60,7 @@
       <file>gost-standard.bbx</file>
       <file>gost-numeric.bbx</file>
       <file>numeric-comp.cbx</file>
+      <file>gost-numeric.cbx</file>
       <file>biblatex.cfg</file>
       <file>russian.lbx</file>
       <file>russian-gost.lbx</file>
