@@ -296,6 +296,9 @@ url=false %все false выключают отображение полей, з
 \usepackage{lastpage} % Подсчет количества страниц
 \setcounter{page}{3}  % Начало нумерации страниц
 
+\begin{comment}
+
+
 \usepackage[% 
 backend=biber, %подключение пакета biber (тоже нужен)
 bibstyle=gost-numeric, %подключение одного из четырех главных стилей biblatex-gost 
@@ -309,5 +312,6 @@ isbn=false,
 dashed=false, 
 url=false %все false выключают отображение полей, заполненных в библиографической базе, но не актуальных для печатного листа
 ]{biblatex}
-
+\end{comment}
+\usepackage[style=gost-numeric,sorting=none]{biblatex}
 \addbibresource {simple_utf8.bib}
