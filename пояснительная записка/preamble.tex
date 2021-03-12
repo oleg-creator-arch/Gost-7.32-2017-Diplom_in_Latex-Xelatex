@@ -44,6 +44,22 @@ url=false %все false выключают отображение полей, з
 %\usepackage{scrextend} % размер 14pt
 \end{comment}
 
+\usepackage[% 
+backend=biber, %подключение пакета biber (тоже нужен)
+bibstyle=gost-numeric, %подключение одного из четырех главных стилей biblatex-gost 
+citestyle=numeric-comp, %подключение стиля стиля (а вот!) 
+language=auto, %указание сортировки языков
+babel=other, %указание языков
+sorting=ntvy, %тип сортировки в библиографии
+doi=false, 
+eprint=false, 
+isbn=false, 
+dashed=false, 
+url=false %все false выключают отображение полей, заполненных в библиографической базе, но не актуальных для печатного листа
+]{biblatex}
+
+
+
 \usepackage{listings} % Оформление исходного кода
 \lstset{
     %basicstyle=\small\ttfamily, % Размер и тип шрифта
