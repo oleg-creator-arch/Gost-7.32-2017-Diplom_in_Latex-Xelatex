@@ -51,6 +51,8 @@
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
+      <file>biblatex-gost.dbx</file>
+      <file>gost-numeric.dbx</file>
       <file>blx-unicode.def</file>
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
