@@ -315,7 +315,7 @@ url=false %все false выключают отображение полей, з
 
 \usepackage[style=gost,sorting=none]{biblatex}
 \addbibresource {simple_utf8.bib}
-\end{comment}
+
 
 
 \bibliographystyle{gost-numeric.bbx}
@@ -331,4 +331,38 @@ defernumbers=true,
 bibstyle=gost-numeric,
 sorting=ntvy,
 ]{biblatex}
+\addbibresource{bib.bib}
+\end{comment}
+
+\usepackage[% 
+backend=biber, %подключение пакета biber (тоже нужен)
+bibstyle=gost-numeric, %подключение одного из четырех главных стилей biblatex-gost 
+citestyle=numeric-comp, %подключение стиля стиля (а вот!) 
+language=auto, %указание сортировки языков
+babel=other, %указание языков
+sorting=ntvy, %тип сортировки в библиографии
+doi=false, 
+eprint=false, 
+isbn=false, 
+dashed=false, 
+url=false %все false выключают отображение полей, заполненных в библиографической базе, но не актуальных для печатного листа
+]{biblatex}
+\DeclareFieldFormat{postnote}{#1} %убирает с. и p. 
+\renewcommand*{\multicitedelim}{\addsemicolon\space} % добавляет точку с запятой и пробел (; ) в перечислении
+\renewcommand*{\postnotedelim}{\addcolon\space} % добавляет двоеточие и пробел (: ) перед номером страницы
+\DeclareSourcemap{
+	\maps[datatype=bibtex]{
+		\map{
+			\step[fieldsource=langid, match=russian, final]
+			\step[fieldset=presort, fieldvalue={a}]
+		}
+		\map{
+			\step[fieldsource=langid, notmatch=russian, final]
+			\step[fieldset=presort, fieldvalue={z}]
+		}
+	}
+}
+\usepackage{polyglossia}
+\setdefaultlanguage{russian} %язык по умолчанию
+\setotherlanguage{english}
 \addbibresource{bib.bib}
