@@ -295,3 +295,9 @@ url=false %все false выключают отображение полей, з
 \end{comment}
 \usepackage{lastpage} % Подсчет количества страниц
 \setcounter{page}{3}  % Начало нумерации страниц
+
+
+\makeatletter % |список
+\bibliographystyle{ugost2008} % |литературы
+\renewcommand{\@biblabel}[1]{#1.}% |с
+\makeatother % |точкой
