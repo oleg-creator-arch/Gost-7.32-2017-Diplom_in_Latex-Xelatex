@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: ugost2008.bst
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: bib.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty journal in fotonenko_1
+Warning--empty year in fotonenko_1
+You've used 2 entries,
+            4636 wiz_defined-function locations,
+            1339 strings with 10953 characters,
+and the built_in function-call counts, 371 in all, are:
+= -- 24
+> -- 2
+< -- 0
++ -- 2
+- -- 0
+* -- 22
+:= -- 38
+add.period$ -- 3
+call.type$ -- 2
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 26
+empty$ -- 63
+format.name$ -- 0
+if$ -- 89
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 0
+newline$ -- 24
+num.names$ -- 0
+pop$ -- 16
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 13
+stack$ -- 0
+substring$ -- 0
+swap$ -- 8
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 0
+width$ -- 3
+write$ -- 27
+(There were 2 warnings)
