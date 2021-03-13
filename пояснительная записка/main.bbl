@@ -29,4 +29,11 @@ title. \BibDash
   графика~// \BibEmph{Наука}. \BibDash
 \newblock 1991.
 
+\bibitem{Legendre1998}
+\selectlanguageifdefined{english}
+\BibEmph{ВвфцвфыL~Йцуйцу~Ывв}. ЫФВыфвыфвс
+  фывфцвыфвфв. \BibDash
+\newblock Вфывцфв ПППп Паыфв, 1998. \BibDash
+\newblock P.~853.
+
 \end{thebibliography}
