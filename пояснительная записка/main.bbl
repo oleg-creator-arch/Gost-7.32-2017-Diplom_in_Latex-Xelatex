@@ -23,4 +23,10 @@ title. \BibDash
 \selectlanguageifdefined{english}
 Е.Ц.Фотоненко, Мурзилка, 4, 1987.
 
+\bibitem{1.Зенкин1991}
+\selectlanguageifdefined{english}
+\BibEmph{Зенкин~А.А.} Когнитивная компьютерная
+  графика~// \BibEmph{Наука}. \BibDash
+\newblock 1991.
+
 \end{thebibliography}

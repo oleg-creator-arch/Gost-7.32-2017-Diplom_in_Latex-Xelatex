@@ -8,45 +8,45 @@ Database file #1: bib.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty journal in fotonenko_1
 Warning--empty year in fotonenko_1
-You've used 2 entries,
+You've used 3 entries,
             4636 wiz_defined-function locations,
-            1339 strings with 10953 characters,
-and the built_in function-call counts, 371 in all, are:
-= -- 24
-> -- 2
-< -- 0
-+ -- 2
-- -- 0
-* -- 22
-:= -- 38
-add.period$ -- 3
-call.type$ -- 2
+            1344 strings with 11066 characters,
+and the built_in function-call counts, 604 in all, are:
+= -- 49
+> -- 7
+< -- 1
++ -- 4
+- -- 1
+* -- 35
+:= -- 63
+add.period$ -- 6
+call.type$ -- 3
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 26
-empty$ -- 63
-format.name$ -- 0
-if$ -- 89
+cite$ -- 5
+duplicate$ -- 42
+empty$ -- 98
+format.name$ -- 1
+if$ -- 153
 int.to.chr$ -- 0
-int.to.str$ -- 2
+int.to.str$ -- 3
 missing$ -- 0
-newline$ -- 24
-num.names$ -- 0
-pop$ -- 16
+newline$ -- 29
+num.names$ -- 3
+pop$ -- 22
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 13
+skip$ -- 18
 stack$ -- 0
 substring$ -- 0
-swap$ -- 8
+swap$ -- 16
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 2
-while$ -- 0
-width$ -- 3
-write$ -- 27
+while$ -- 1
+width$ -- 4
+write$ -- 37
 (There were 2 warnings)
