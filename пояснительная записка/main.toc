@@ -18,6 +18,8 @@
 \contentsline {section}{ЗАКЛЮЧЕНИЕ}{28}{section*.15}%
 \contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{29}{section*.15}%
 \selectlanguage *{english}
+\selectlanguage *{english}
+\selectlanguage *{russian}
 \selectlanguage *{russian}
 \contentsline {paragraph}{\Large \centerline {{ПРИЛОЖЕНИЕ А}}}{30}{section*.16}%
 \contentsline {section}{{ПРИЛОЖЕНИЕ А}}{30}{section*.16}%
