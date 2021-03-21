@@ -10,49 +10,48 @@ I was expecting a `,' or a `}'---line 8 of file bib.bib
  :  url = "https://sibsutis.ru/lib/staff/makeref-gost/"
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "1.Зенкин1991"
 Warning--I didn't find a database entry for "2.Орлов2004"
 Warning--I didn't find a database entry for "fotonenko_1"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-You've used 1 entry,
+You've used 2 entries,
             4660 wiz_defined-function locations,
-            1348 strings with 12171 characters,
-and the built_in function-call counts, 268 in all, are:
-= -- 23
-> -- 1
+            1351 strings with 12216 characters,
+and the built_in function-call counts, 434 in all, are:
+= -- 37
+> -- 2
 < -- 0
-+ -- 1
++ -- 2
 - -- 0
-* -- 9
-:= -- 31
-add.period$ -- 2
-call.type$ -- 1
-change.case$ -- 0
+* -- 18
+:= -- 42
+add.period$ -- 4
+call.type$ -- 2
+change.case$ -- 1
 chr.to.int$ -- 0
-cite$ -- 1
-duplicate$ -- 17
-empty$ -- 44
+cite$ -- 2
+duplicate$ -- 29
+empty$ -- 76
 format.name$ -- 0
-if$ -- 68
+if$ -- 115
 int.to.chr$ -- 0
-int.to.str$ -- 1
+int.to.str$ -- 2
 missing$ -- 0
-newline$ -- 20
+newline$ -- 25
 num.names$ -- 0
-pop$ -- 9
+pop$ -- 16
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 7
+skip$ -- 14
 stack$ -- 0
 substring$ -- 0
-swap$ -- 6
+swap$ -- 11
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
 while$ -- 0
-width$ -- 2
-write$ -- 24
+width$ -- 3
+write$ -- 32
 (There was 1 error message)

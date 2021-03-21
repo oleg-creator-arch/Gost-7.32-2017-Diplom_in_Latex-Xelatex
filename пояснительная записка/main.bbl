@@ -20,4 +20,9 @@
   работников и инженеров. \BibDash
 \newblock Москва~: «Наука», 1974.
 
+\bibitem{ID}
+\selectlanguageifdefined{english}
+ОПисание. \BibDash
+\newblock Access mode: \BibUrl{https://sibsutis.ru/lib/staff/makeref-gost/}.
+
 \end{thebibliography}
