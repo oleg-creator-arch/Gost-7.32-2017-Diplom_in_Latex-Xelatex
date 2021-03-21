@@ -16,7 +16,7 @@
 
 \bibitem{ID}
 \selectlanguageifdefined{english}
-title. \BibDash
+САО РАН. \BibDash
 \newblock Access mode: \BibUrl{www.sao.ru/Doc-k8/About/base}.
 
 \end{thebibliography}
