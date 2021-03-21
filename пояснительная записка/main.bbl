@@ -21,18 +21,19 @@
 \newblock Москва~: «Наука», 1974.
 
 \bibitem{Rub1}
-\selectlanguageifdefined{english}
-\BibEmph{Rubino~D.} Ie9 for windows phone 7: Adobe flash, demos and
-  development, Ed.\ by\ ~{Windows Phone Central}. \BibDash
-\newblock Access mode:
-  \BibUrl{http://www.wpcentral.com/ie9-windows-phone-7-adobe-flash-demos-and-development-videos}
-  (online; accessed: 14.01.2013).
+\selectlanguageifdefined{russian}
+Российская государственная библиотека :
+  официальный сайт. \BibDash
+\newblock {\CYRR\cyre\cyrzh\cyri\cyrm\ \cyrd\cyro\cyrs\cyrt\cyru\cyrp\cyra}:
+  \BibUrl{URL: http://www.wpcentral.com/i} ({\cyrd\cyra\cyrt\cyra\
+  \cyro\cyrb\cyrr\cyra\cyrshch\cyre\cyrn\cyri\cyrya}: (дата
+  обращения 14.01.2013)).
 
 \bibitem{Rub2}
 \selectlanguageifdefined{english}
-\BibEmph{Rubino~D.} Ie9 for windows phone 7: Adobe flash, demos and
-  development. \BibDash
-\newblock Access mode:
+Российская государственная библиотека :
+  официальный сайт. \BibDash
+\newblock (дата обращения 14.01.2013). Access mode:
   \BibUrl{http://www.wpcentral.com/ie9-windows-phone-7-adobe-flash-demos-and-development-videos}.
 
 \end{thebibliography}
