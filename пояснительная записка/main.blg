@@ -5,16 +5,12 @@ The style file: ugost2008.bst
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: bib.bib
-Repeated entry---line 57 of file bib.bib
- : @online{ID
- :           ,
-I'm skipping whatever remains of this entry
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty journal in fotonenko_1
 Warning--empty year in fotonenko_1
 You've used 4 entries,
             4636 wiz_defined-function locations,
-            1351 strings with 11209 characters,
+            1352 strings with 11246 characters,
 and the built_in function-call counts, 947 in all, are:
 = -- 88
 > -- 12
@@ -53,4 +49,4 @@ warning$ -- 2
 while$ -- 3
 width$ -- 5
 write$ -- 50
-(There was 1 error message)
+(There were 2 warnings)

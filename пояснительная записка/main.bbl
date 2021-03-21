@@ -17,7 +17,7 @@
 \bibitem{ID}
 \selectlanguageifdefined{english}
 title. \BibDash
-\newblock Access mode: \BibUrl{url}.
+\newblock Access mode: \BibUrl{https://www.sao.ru/Doc-k8/About/#base}.
 
 \bibitem{fotonenko_1}
 \selectlanguageifdefined{english}
