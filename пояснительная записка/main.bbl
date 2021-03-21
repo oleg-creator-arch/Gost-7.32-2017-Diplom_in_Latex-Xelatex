@@ -14,27 +14,11 @@
 \cyrdash\hskip.2em plus 0.1em\ignorespaces}
 \renewcommand{\newblock}{\ignorespaces}
 
-\bibitem{ID}
-\selectlanguageifdefined{english}
-САО РАН. \BibDash
-\newblock Access mode: \BibUrl{www.sao.ru/Doc-k8/About/base}.
-
-\bibitem{1.Зенкин1991}
-\selectlanguageifdefined{english}
-\BibEmph{Зенкин}. Когнитивная компьютерная
-  графика~// \BibEmph{Наука}. \BibDash
-\newblock 1991.
-
-\bibitem{2.Орлов2004}
-\selectlanguageifdefined{english}
-\BibEmph{Орлов}. Нечисловая статистика~//
-  \BibEmph{Пресс}. \BibDash
-\newblock 2004. \BibDash
-\newblock P.~513. \BibDash
-\newblock c.
-
-\bibitem{fotonenko_1}
-\selectlanguageifdefined{english}
-Е.Ц.Фотоненко, Мурзилка, 4, 1987.
+\bibitem{Korn}
+\selectlanguageifdefined{russian}
+\BibEmph{Корн~�.~�., Корн~�.~�.} Справочник по
+  математике для научных работников и
+  инженеров. \BibDash
+\newblock Москва~: «Наука», 1974.
 
 \end{thebibliography}
