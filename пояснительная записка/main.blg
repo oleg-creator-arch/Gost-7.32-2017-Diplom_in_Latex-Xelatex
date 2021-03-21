@@ -10,46 +10,42 @@ I was expecting a `,' or a `}'---line 8 of file bib.bib
  :  url = "https://sibsutis.ru/lib/staff/makeref-gost/"
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Illegal end of database file---line 29 of file bib.bib
- : }
- :  
-I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "2.Орлов2004"
 Warning--I didn't find a database entry for "fotonenko_1"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 You've used 2 entries,
             4660 wiz_defined-function locations,
-            1350 strings with 12173 characters,
-and the built_in function-call counts, 414 in all, are:
-= -- 33
+            1351 strings with 12217 characters,
+and the built_in function-call counts, 434 in all, are:
+= -- 37
 > -- 2
 < -- 0
 + -- 2
 - -- 0
-* -- 14
-:= -- 40
-add.period$ -- 3
+* -- 18
+:= -- 42
+add.period$ -- 4
 call.type$ -- 2
 change.case$ -- 1
 chr.to.int$ -- 0
 cite$ -- 2
 duplicate$ -- 29
-empty$ -- 75
+empty$ -- 76
 format.name$ -- 0
-if$ -- 110
+if$ -- 115
 int.to.chr$ -- 0
 int.to.str$ -- 2
 missing$ -- 0
-newline$ -- 24
+newline$ -- 25
 num.names$ -- 0
-pop$ -- 17
+pop$ -- 16
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 15
+skip$ -- 14
 stack$ -- 0
 substring$ -- 0
-swap$ -- 10
+swap$ -- 11
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
@@ -57,5 +53,5 @@ type$ -- 0
 warning$ -- 0
 while$ -- 0
 width$ -- 3
-write$ -- 29
-(There were 2 error messages)
+write$ -- 32
+(There was 1 error message)

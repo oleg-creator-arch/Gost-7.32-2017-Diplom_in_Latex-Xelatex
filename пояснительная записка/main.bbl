@@ -22,6 +22,7 @@
 
 \bibitem{ID}
 \selectlanguageifdefined{english}
-ОПисание.
+ОПисание. \BibDash
+\newblock Access mode: \BibUrl{\url{http://www.rea.ru/sens/content_sa.html}}.
 
 \end{thebibliography}
