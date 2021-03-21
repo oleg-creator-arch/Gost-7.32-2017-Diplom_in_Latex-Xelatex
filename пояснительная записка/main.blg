@@ -6,49 +6,47 @@ Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: bib.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Warning--empty journal in 1.Зенкин1991
-Warning--empty journal in 2.Орлов2004
 Warning--empty journal in fotonenko_1
 Warning--empty year in fotonenko_1
 You've used 4 entries,
             4660 wiz_defined-function locations,
-            1355 strings with 12269 characters,
-and the built_in function-call counts, 917 in all, are:
-= -- 83
+            1357 strings with 12289 characters,
+and the built_in function-call counts, 945 in all, are:
+= -- 91
 > -- 12
 < -- 2
 + -- 6
 - -- 2
-* -- 46
-:= -- 94
+* -- 50
+:= -- 96
 add.period$ -- 11
 call.type$ -- 4
 change.case$ -- 4
 chr.to.int$ -- 0
-cite$ -- 8
+cite$ -- 6
 duplicate$ -- 64
-empty$ -- 134
+empty$ -- 138
 format.name$ -- 2
-if$ -- 236
+if$ -- 248
 int.to.chr$ -- 0
 int.to.str$ -- 4
 missing$ -- 0
 newline$ -- 36
 num.names$ -- 6
-pop$ -- 31
+pop$ -- 27
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
 skip$ -- 33
 stack$ -- 0
 substring$ -- 6
-swap$ -- 29
+swap$ -- 33
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 4
+warning$ -- 2
 while$ -- 3
 width$ -- 5
-write$ -- 51
-(There were 4 warnings)
+write$ -- 53
+(There were 2 warnings)

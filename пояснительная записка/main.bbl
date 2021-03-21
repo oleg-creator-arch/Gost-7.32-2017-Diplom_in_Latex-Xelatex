@@ -22,12 +22,13 @@
 \bibitem{1.Зенкин1991}
 \selectlanguageifdefined{english}
 \BibEmph{Зенкин~�.} Когнитивная компьютерная
-  графика. \BibDash
+  графика~// \BibEmph{Наука}. \BibDash
 \newblock 1991.
 
 \bibitem{2.Орлов2004}
 \selectlanguageifdefined{english}
-\BibEmph{Орлов~�.} Нечисловая статистика. \BibDash
+\BibEmph{Орлов~�.} Нечисловая статистика~//
+  \BibEmph{Пресс}. \BibDash
 \newblock 2004. \BibDash
 \newblock P.~513. \BibDash
 \newblock c.
