@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: gost2008.bst
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: bib.bib
+Warning--I didn't find a database entry for "Rub2"
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty year in Rub1
+You've used 2 entries,
+            4660 wiz_defined-function locations,
+            1352 strings with 12340 characters,
+and the built_in function-call counts, 416 in all, are:
+= -- 37
+> -- 2
+< -- 0
++ -- 2
+- -- 0
+* -- 17
+:= -- 43
+add.period$ -- 5
+call.type$ -- 2
+change.case$ -- 1
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 27
+empty$ -- 67
+format.name$ -- 0
+if$ -- 106
+int.to.chr$ -- 0
+int.to.str$ -- 2
+missing$ -- 0
+newline$ -- 26
+num.names$ -- 0
+pop$ -- 14
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 10
+stack$ -- 0
+substring$ -- 0
+swap$ -- 12
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 0
+width$ -- 3
+write$ -- 35
+(There were 2 warnings)
