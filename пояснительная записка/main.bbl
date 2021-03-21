@@ -16,6 +16,7 @@
 
 \bibitem{ID}
 \selectlanguageifdefined{english}
-пуховский.
+title. \BibDash
+\newblock Access mode: \BibUrl{www.sao.ru/Doc-k8/About/base}.
 
 \end{thebibliography}
