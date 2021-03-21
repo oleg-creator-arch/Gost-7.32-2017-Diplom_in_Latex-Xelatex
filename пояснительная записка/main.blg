@@ -5,6 +5,11 @@ The style file: gost2008.bst
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: bib.bib
+I was expecting a `,' or a `}'---line 8 of file bib.bib
+ :  
+ :  url = "https://sibsutis.ru/lib/staff/makeref-gost/"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "1.Зенкин1991"
 Warning--I didn't find a database entry for "2.Орлов2004"
 Warning--I didn't find a database entry for "fotonenko_1"
@@ -50,4 +55,4 @@ warning$ -- 0
 while$ -- 0
 width$ -- 2
 write$ -- 24
-(There were 3 warnings)
+(There was 1 error message)
