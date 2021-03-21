@@ -13,45 +13,45 @@ I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Rub2"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty year in Rub1
-You've used 2 entries,
+You've used 3 entries,
             4660 wiz_defined-function locations,
-            1352 strings with 12372 characters,
-and the built_in function-call counts, 416 in all, are:
-= -- 37
-> -- 2
+            1357 strings with 12564 characters,
+and the built_in function-call counts, 638 in all, are:
+= -- 61
+> -- 6
 < -- 0
-+ -- 2
-- -- 0
-* -- 17
-:= -- 43
-add.period$ -- 5
-call.type$ -- 2
-change.case$ -- 1
++ -- 4
+- -- 1
+* -- 31
+:= -- 64
+add.period$ -- 9
+call.type$ -- 3
+change.case$ -- 2
 chr.to.int$ -- 0
-cite$ -- 3
-duplicate$ -- 27
-empty$ -- 67
-format.name$ -- 0
-if$ -- 106
+cite$ -- 4
+duplicate$ -- 40
+empty$ -- 101
+format.name$ -- 1
+if$ -- 166
 int.to.chr$ -- 0
-int.to.str$ -- 2
+int.to.str$ -- 3
 missing$ -- 0
-newline$ -- 26
-num.names$ -- 0
-pop$ -- 14
+newline$ -- 32
+num.names$ -- 1
+pop$ -- 19
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 10
+skip$ -- 16
 stack$ -- 0
 substring$ -- 0
-swap$ -- 12
+swap$ -- 20
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 0
-width$ -- 3
-write$ -- 35
+while$ -- 1
+width$ -- 4
+write$ -- 47
 (There was 1 error message)

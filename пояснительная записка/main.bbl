@@ -29,4 +29,10 @@
   \BibDash
 \newblock (дата обращения 2010.09.30).
 
+\bibitem{российская}
+\selectlanguageifdefined{english}
+\BibEmph{библиотека~�.~�.} официальный сайт. \BibDash
+\newblock Дата обращения 20.03.2021. \BibDash may. \BibDash
+\newblock Access mode: \BibUrl{https://truben.no/latex/bibtex/}.
+
 \end{thebibliography}
