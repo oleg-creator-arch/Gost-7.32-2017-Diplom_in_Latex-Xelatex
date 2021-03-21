@@ -5,12 +5,17 @@ The style file: gost2008.bst
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: bib.bib
+I was expecting a `,' or a `}'---line 13 of file bib.bib
+ :  
+ :  year = {москва, 2021},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Rub2"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty year in Rub1
 You've used 2 entries,
             4660 wiz_defined-function locations,
-            1352 strings with 12370 characters,
+            1352 strings with 12372 characters,
 and the built_in function-call counts, 416 in all, are:
 = -- 37
 > -- 2
@@ -49,4 +54,4 @@ warning$ -- 1
 while$ -- 0
 width$ -- 3
 write$ -- 35
-(There were 2 warnings)
+(There was 1 error message)
