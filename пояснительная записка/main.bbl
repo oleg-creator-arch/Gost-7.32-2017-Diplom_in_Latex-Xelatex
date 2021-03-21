@@ -20,4 +20,12 @@
   работников и инженеров. \BibDash
 \newblock Москва~: «Наука», 1974.
 
+\bibitem{WinNT}
+\selectlanguageifdefined{english}
+{MS Windows NT} kernel description. \BibDash
+\newblock
+  \url{http://web.archive.org/web/20080207010024/http://www.808multimedia.com/winnt/kernel.htm}.
+  \BibDash
+\newblock Accessed: 2010-09-30.
+
 \end{thebibliography}
