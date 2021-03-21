@@ -10,48 +10,48 @@ I was expecting a `,' or a `}'---line 13 of file bib.bib
  :  year = {москва, 2021},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Rub2"
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty year in Rub1
-You've used 3 entries,
+Warning--empty year in Rub2
+You've used 4 entries,
             4660 wiz_defined-function locations,
-            1357 strings with 12564 characters,
-and the built_in function-call counts, 638 in all, are:
-= -- 61
-> -- 6
+            1361 strings with 12710 characters,
+and the built_in function-call counts, 826 in all, are:
+= -- 82
+> -- 10
 < -- 0
-+ -- 4
-- -- 1
-* -- 31
-:= -- 64
-add.period$ -- 9
-call.type$ -- 3
-change.case$ -- 2
++ -- 6
+- -- 2
+* -- 42
+:= -- 85
+add.period$ -- 13
+call.type$ -- 4
+change.case$ -- 3
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 40
-empty$ -- 101
-format.name$ -- 1
-if$ -- 166
+cite$ -- 6
+duplicate$ -- 51
+empty$ -- 125
+format.name$ -- 2
+if$ -- 213
 int.to.chr$ -- 0
-int.to.str$ -- 3
+int.to.str$ -- 4
 missing$ -- 0
-newline$ -- 32
-num.names$ -- 1
-pop$ -- 19
+newline$ -- 38
+num.names$ -- 2
+pop$ -- 23
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 16
+skip$ -- 18
 stack$ -- 0
 substring$ -- 0
-swap$ -- 20
+swap$ -- 28
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 1
-while$ -- 1
-width$ -- 4
-write$ -- 47
+warning$ -- 2
+while$ -- 2
+width$ -- 5
+write$ -- 59
 (There was 1 error message)

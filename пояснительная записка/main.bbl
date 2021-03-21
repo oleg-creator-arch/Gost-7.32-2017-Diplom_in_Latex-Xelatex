@@ -35,4 +35,11 @@
 \newblock Дата обращения 20.03.2021. \BibDash may. \BibDash
 \newblock Access mode: \BibUrl{https://truben.no/latex/bibtex/}.
 
+\bibitem{Rub2}
+\selectlanguageifdefined{english}
+\BibEmph{{Ministry for Primary Industries}}. {Kina sea urchin regions in NZ}.
+  \BibDash
+\newblock URL: http://fs.fish.govt.nz/Page.aspx?pk=7\&sc=SUR. \BibDash
+\newblock Online; accessed 29 January 2014.
+
 \end{thebibliography}
