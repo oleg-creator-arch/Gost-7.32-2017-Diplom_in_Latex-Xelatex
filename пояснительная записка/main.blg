@@ -10,7 +10,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty year in Rub1
 You've used 2 entries,
             4660 wiz_defined-function locations,
-            1352 strings with 12340 characters,
+            1352 strings with 12341 characters,
 and the built_in function-call counts, 416 in all, are:
 = -- 37
 > -- 2
