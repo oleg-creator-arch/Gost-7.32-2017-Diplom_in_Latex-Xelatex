@@ -28,4 +28,20 @@
   \BibDash
 \newblock Accessed: 2010-09-30.
 
+\bibitem{Win}
+\selectlanguageifdefined{russian}
+\BibEmph{LLC~M.} {MS Windows NT} kernel description. \BibDash
+\newblock 1999. \BibDash
+\newblock {\CYRR\cyre\cyrzh\cyri\cyrm\ \cyrd\cyro\cyrs\cyrt\cyru\cyrp\cyra}:
+  \BibUrl{http://web.archive.org/web/20080207010024/http://www.808multimedia.com/winnt/kernel.htm}
+  ({\cyrd\cyra\cyrt\cyra\ \cyro\cyrb\cyrr\cyra\cyrshch\cyre\cyrn\cyri\cyrya}:
+  2010-09-30).
+
+\bibitem{СИР2021}
+\selectlanguageifdefined{russian}
+\BibEmph{СИР}. САО РАН, САО РАН. \BibDash
+\newblock https://bio.spbu.ru, 2021. \BibDash \CYRM\cyra\cyrishrt. \BibDash
+\newblock {\CYRR\cyre\cyrzh\cyri\cyrm\ \cyrd\cyro\cyrs\cyrt\cyru\cyrp\cyra}:
+  \BibUrl{https://bio.spbu.ru/science/scienceinfo/el_resourse.php}.
+
 \end{thebibliography}

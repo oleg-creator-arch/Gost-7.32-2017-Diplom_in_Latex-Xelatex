@@ -5,49 +5,49 @@ The style file: gost2008.bst
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: bib.bib
-Warning--I didn't find a database entry for "2.Орлов2004"
-Warning--I didn't find a database entry for "fotonenko_1"
+Warning--I'm ignoring СИР2021's extra "language" field
+--line 23 of file bib.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--empty year in WinNT
-You've used 2 entries,
+You've used 4 entries,
             4660 wiz_defined-function locations,
-            1352 strings with 12310 characters,
-and the built_in function-call counts, 416 in all, are:
-= -- 37
-> -- 2
+            1362 strings with 12511 characters,
+and the built_in function-call counts, 905 in all, are:
+= -- 99
+> -- 10
 < -- 0
-+ -- 2
-- -- 0
-* -- 17
-:= -- 43
-add.period$ -- 5
-call.type$ -- 2
-change.case$ -- 1
++ -- 6
+- -- 2
+* -- 49
+:= -- 86
+add.period$ -- 13
+call.type$ -- 4
+change.case$ -- 3
 chr.to.int$ -- 0
-cite$ -- 3
-duplicate$ -- 27
-empty$ -- 67
-format.name$ -- 0
-if$ -- 106
+cite$ -- 5
+duplicate$ -- 55
+empty$ -- 138
+format.name$ -- 2
+if$ -- 243
 int.to.chr$ -- 0
-int.to.str$ -- 2
+int.to.str$ -- 4
 missing$ -- 0
-newline$ -- 26
-num.names$ -- 0
-pop$ -- 14
+newline$ -- 38
+num.names$ -- 2
+pop$ -- 24
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 10
+skip$ -- 22
 stack$ -- 0
 substring$ -- 0
-swap$ -- 12
+swap$ -- 30
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 0
-width$ -- 3
-write$ -- 35
-(There were 3 warnings)
+while$ -- 2
+width$ -- 5
+write$ -- 61
+(There were 2 warnings)
