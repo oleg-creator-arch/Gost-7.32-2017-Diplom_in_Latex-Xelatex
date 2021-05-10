@@ -1,0 +1,26 @@
+\selectlanguage *{russian}
+\contentsline {paragraph}{\Large \centerline {{РЕФЕРАТ}}\vspace {1em}}{3}{Doc-Start}%
+\contentsline {paragraph}{\Large \centerline {{ТЕРМИНЫ И ОПРЕДЕЛЕНИЯ}}\vspace {1em}}{5}{Doc-Start}%
+\contentsline {paragraph}{\Large \centerline {{ПЕРЕЧЕНЬ СОКРАЩЕНИЙ И ОБОЗНАЧЕНИЙ}}\vspace {1em}}{6}{Doc-Start}%
+\contentsline {paragraph}{\Large \centerline {{ВВЕДЕНИЕ}}\vspace {1em}}{7}{section*.1}%
+\contentsline {section}{ВВЕДЕНИЕ}{7}{section*.1}%
+\contentsline {section}{\numberline {1}Описание и анализ предметной области}{9}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Организационная структура САО РАН}{9}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Описание процессов}{13}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Формирование математической модели проблемы}{15}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Полная постановка задачи ВКР}{18}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Оптимизация и реинжиниринг бизнес-процессов}{19}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Оптимизация математической модели}{19}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Реинжиниринг бизнес-процессов}{21}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Проектирование информационной системы}{23}{section.3}%
+\contentsline {section}{\numberline {4}Реализация информационной системы}{24}{section.4}%
+\contentsline {section}{\numberline {5}Социальная значимость разработки}{25}{section.5}%
+\contentsline {section}{\numberline {6}Технико-экономическое обоснование разработки}{26}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Описание целесообразности проектирования с точки зрения \\объекта}{26}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Расчет затрат на разработку}{26}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Безопасность и экологичность разработки}{30}{section.7}%
+\contentsline {paragraph}{\Large \centerline {{ЗАКЛЮЧЕНИЕ}}\vspace {1em}}{36}{section*.17}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{36}{section*.17}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{37}{section*.17}%
+\selectlanguage *{russian}
+\selectlanguage *{russian}
