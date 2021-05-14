@@ -139,7 +139,7 @@ SuperActor потомок от actor:
 
 
 
-В таблице AuthorInvetes храниться информация о приглашенных авторов в системе, опишем сущность в таблице \ref{tabular:AuthorInvetes}
+В таблице AuthorInvetes храниться информация для реализации возможности приглашать со авторов в командный блог, опишем сущность в таблице \ref{tabular:AuthorInvetes}
 
 \begin{table}[H]
 	\caption{сущность AuthorInvetes }
@@ -164,24 +164,17 @@ SuperActor потомок от actor:
 
 
 
-В таблице Blogs храниться информация о блогах в системе, опишем сущность в таблице \ref{tabular:blogs}
+В таблице BlogAuthor храниться информация для создания командных блогов в системе, создает связь <<многие ко многим>> для сущностей Blogs и Users, опишем сущность в таблице \ref{tabular:BlogAuthor}
 
 \begin{table}[H]
-	\caption{сущность Blogs}
-	\label{tabular:blogs}
+	\caption{сущность BlogAuthor}
+	\label{tabular:BlogAuthor}
 	\begin{center}
 		\begin{tabular}{|l|l|l|}
 			\hline
-			\multicolumn{1}{|c|}{Название поля} & \multicolumn{1}{c|}{\begin{tabular}[c]{@{}c@{}}Тип\\ данных\end{tabular}} & \multicolumn{1}{c|}{Описание}     \\ \hline
-			Id                                  & Integer                                                                   & Идентификатор блога               \\ \hline
-			Title                               & String                                                                    & Отображаемый заголовок блога      \\ \hline
-			Description                         & String                                                                    & Описание блога                    \\ \hline
-			Type                                & Integer                                                                   & Тип блога                         \\ \hline
-			IsPublic                            & Boolean                                                                   & Флаг публичности блога            \\ \hline
-			OwnerId                             & Integer                                                                   & Идентификатор владельца блога     \\ \hline
-			CreateDate                          & DateTime                                                                  & Дата создания блога               \\ \hline
-			UpdateDate                          & DateTime                                                                  & Дата последнего изменения о блоге \\ \hline
-			Name                                & String                                                                    & Уникальное имя блога              \\ \hline
+			\multicolumn{1}{|c|}{Название поля} & \multicolumn{1}{c|}{\begin{tabular}[c]{@{}c@{}}Тип\\ данных\end{tabular}} & \multicolumn{1}{c|}{Описание} \\ \hline
+			BlogId                              & Integer                                                                   & Идентификатор блога           \\ \hline
+			AuthorId                            & Integer                                                                   & Идентификатор пользователя    \\ \hline
 		\end{tabular}
 	\end{center}
 \end{table}
