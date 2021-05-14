@@ -114,6 +114,27 @@ SuperActor потомок от actor:
 
 \addimghere{resources/erd}{1}{ERD диаграмма отношений сущностей БД}{pic:erd}
 
+В таблице Blogs храниться информация о блогах в системе, опишем сущность в таблице \ref{}
+
+\begin{table}[H]
+	\caption{Результат сравнения аналогов}
+	\label{tabular:analogi}
+	\begin{center}
+\begin{tabular}{|l|l|l|}
+	\hline
+	\multicolumn{1}{|c|}{Название поля} & \multicolumn{1}{c|}{\begin{tabular}[c]{@{}c@{}}Тип\\ данных\end{tabular}} & \multicolumn{1}{c|}{Описание}     \\ \hline
+	Id                                  & Integer                                                                   & Идентификатор блога               \\ \hline
+	Title                               & String                                                                    & Отображаемый заголовок блога      \\ \hline
+	Description                         & String                                                                    & Описание блога                    \\ \hline
+	Type                                & Integer                                                                   & Тип блога                         \\ \hline
+	IsPublic                            & Boolean                                                                   & Флаг публичности блога            \\ \hline
+	OwnerId                             & Integer                                                                   & Идентификатор владельца блога     \\ \hline
+	CreateDate                          & DateTime                                                                  & Дата создания блога               \\ \hline
+	UpdateDate                          & DateTime                                                                  & Дата последнего изменения о блоге \\ \hline
+	Name                                & String                                                                    & Уникальное имя блога              \\ \hline
+\end{tabular}
+	\end{center}
+\end{table}
 
 
 
